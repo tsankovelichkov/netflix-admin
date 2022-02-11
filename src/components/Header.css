@@ -1,0 +1,43 @@
+
+
+.header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.header-logo-container {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    align-items: center;  
+}
+
+.logo-image-container {
+    width: 60px;
+}
+
+.header-logo-container img{
+    width: 100%;
+}
+
+
+.admin-logo-part {
+    font-weight: 200;
+    border-left: 1px solid grey;
+    font-size: 25px;
+    color: dimgrey;
+    padding-left: 14px;
+}
+
+.header-user-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-avatar-icon-container {
+    padding-right: 15px;
+}
+
+
