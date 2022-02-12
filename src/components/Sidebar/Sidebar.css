@@ -1,0 +1,7 @@
+.aside {
+    background-color: #f2f2f2;
+    flex: 1;
+    height: calc(100vh - 70.03px);
+    color: dimgray;
+}
+
