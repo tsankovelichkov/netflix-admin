@@ -24,3 +24,8 @@
 .sidebar-icons {
     margin-right: 5px;
 }
+
+.link-button {
+    text-decoration: none;
+    color: dimgray;
+}
