@@ -41,7 +41,7 @@ const ListItem = () => {
             <div className="sidebar-quickMenu-container">
                 <h2 className='quickMenu-title'>Lists</h2>
                 <ul className="sidebar-listItem">
-                <Link className="link-button" to="/add-list">
+                <Link className="link-button" to="/lists">
                         <li className='sidebar-listItem-el'>
                             <ViewListRoundedIcon className='sidebar-icons' />
                             See List
