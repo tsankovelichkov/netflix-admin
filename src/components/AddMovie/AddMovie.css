@@ -1,0 +1,46 @@
+.add-movie-section {
+    flex: 7;
+    padding: 35px 95px;
+}
+
+.add-movie-section-title {
+    font-size: 40px;
+}
+
+.add-movie-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add-movie-field {
+    margin-bottom: 24px;
+}
+
+.add-movie-field input,select,option{
+    padding: 14px 0px;
+    border: 1.5px solid lightgray;
+    border-radius: 2px;
+    width: 378px;
+    margin-top: 11px;
+}
+
+.add-movie-field label{
+    font-weight: 500;
+    color: dimgray;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.add-movie-button {
+    padding: 14px 0px;
+    border: 1.5px solid lightgray;
+    border-radius: 20px;
+    width: 378px;
+    margin-top: 11px;
+    background-color: #696969;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
